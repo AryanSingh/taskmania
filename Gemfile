@@ -51,4 +51,5 @@ group :production do
 end
 gem 'bootswatch-rails'
 gem 'bootstrap-sass'
+gem 'simple_form'
 
